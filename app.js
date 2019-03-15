@@ -9,6 +9,13 @@ console.log('hello world')
 console.log('2nd testing');
 
 
+console.log('3rd testing');
+console.log('4th testing');
+console.log('5th testing');
+console.log('6th testing');
+console.log('7th testing');
+
+
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
