@@ -6,6 +6,10 @@ var logger = require('morgan');
 var mongoose = require('mongoose');
 console.log('hello world')
 
+console.log('2nd testing');
+
+
+
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
